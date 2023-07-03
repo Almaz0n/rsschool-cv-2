@@ -1,4 +1,4 @@
-![avorar](https://github.com/Almaz0n/rsschool-cv/blob/rsschool-cv-html/AvoCat.png?raw=true)
+![avotar](https://github.com/Almaz0n/rsschool-cv1/blob/rsschool-cv-html/AvoCat.png?raw=true)
 
 # Nuriev Almaz
 
